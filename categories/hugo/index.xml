@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on mllrjb</title>
+    <link>https://mllrjb.com/categories/hugo/</link>
+    <description>Recent content in Hugo on mllrjb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Feb 2019 19:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://mllrjb.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It&#39;s About Time</title>
+      <link>https://mllrjb.com/posts/2019-02-10-its-about-time/</link>
+      <pubDate>Sun, 10 Feb 2019 19:00:00 -0700</pubDate>
+      
+      <guid>https://mllrjb.com/posts/2019-02-10-its-about-time/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve wanted to start a technical blog for so long&amp;hellip; Finally I have one up and running!&lt;/p&gt;
+
+&lt;p&gt;Why did it take so long? Well, you know how it goes. First, I have to find a blog platform, preferrably a static site generator hosted on Github pages (Hugo +1). Second, I need to figure out a theme. Sixty hours later, I completely forget why I wanted to host a blog in the first place.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

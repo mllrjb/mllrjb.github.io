@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on mllrjb</title>
+    <link>https://mllrjb.com/categories/</link>
+    <description>Recent content in Categories on mllrjb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mllrjb.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://mllrjb.com/categories/hugo/</link>
+      <pubDate>Sun, 10 Feb 2019 19:00:00 -0700</pubDate>
+      
+      <guid>https://mllrjb.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogging</title>
+      <link>https://mllrjb.com/categories/blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mllrjb.com/categories/blogging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

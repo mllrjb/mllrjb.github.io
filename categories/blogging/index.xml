@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on mllrjb</title>
+    <link>https://mllrjb.com/categories/blogging/</link>
+    <description>Recent content in blogging on mllrjb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mllrjb.com/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>whatever</title>
+      <link>https://mllrjb.com/</link>
+      <pubDate>Sun, 10 Feb 2019 19:00:00 -0700</pubDate>
+      
+      <guid>https://mllrjb.com/</guid>
+      <description>blurpity bla bla bla</description>
+    </item>
+    
+  </channel>
+</rss>
