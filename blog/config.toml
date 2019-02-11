@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "mllrjb"
 theme = "m10c"
 disqusShortname = "mllrjb"
+publishDir = "docs"
 
 [params]
   author = "Jason Miller"
