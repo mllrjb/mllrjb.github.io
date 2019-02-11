@@ -1,0 +1,24 @@
+baseURL = "https://mllrjb.github.io/"
+languageCode = "en-us"
+title = "mllrjb"
+theme = "m10c"
+disqusShortname = "mllrjb"
+
+[params]
+  author = "Jason Miller"
+  description = "blurpity bla bla bla"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/mllrjb"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/mllrjb/"
+
+  [params.style]
+    darkestColor = "#000"
+    darkColor = "#003d00"
+    primaryColor = "#33691e"
+    lightColor = "#629749"
+    lightestColor = "#fff"
